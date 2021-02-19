@@ -1,0 +1,72 @@
+[{
+  "id": "1",
+  "image": "https://static.etaplius.lt/media/etaplius_gallery_image/5f043925b4aaa/b2141d5c2a435fa015513292f478fc0583f5032a.jpeg",
+  "name": "Braškės",
+  "description": "Lietuviškos braškės",
+  "price": "3.50",
+  "category": "Uogos"
+},
+{
+  "id": "2",
+  "image": "https://schachtgroves.com/wp-content/uploads/2020/10/1_0002_valencia.jpg",
+  "name": "Apelsinai",
+  "description": "Sultingi, pusiau saldūs apelsinai",
+  "price": "1.59",
+  "category": "Vaisiai"
+},
+{
+  "id": "3",
+  "image": "https://5.imimg.com/data5/PY/TF/MY-13514104/indian-red-potato-500x500.jpg",
+  "name": "Bulvės",
+  "description": "Raudonosios bulvės",
+  "price": "0.36",
+  "category": "Daržovės"
+},
+{
+  "id": "4",
+  "image": "https://www.premia.lt/storage/images/products/196/Klasika_vanilinis_plombyras2.png",
+  "name": "Ledai",
+  "description": "Valgomieji ledai 'Klasika'",
+  "price": "0.99",
+  "category": "Desertai"
+},
+{
+  "id": "5",
+  "image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321618/dark-chocolate-and-cocoa-beans-on-a-table.jpg",
+  "name": "Šokoladas",
+  "description": "Juodasis šokoladas",
+  "price": "1.65",
+  "category": "Saldumynai"
+},
+{
+  "id": "6",
+  "image": "https://telsiai.mon.lt/1925-large_default/alus-svyturys-nealkoholinis-sv05l-depo.jpg",
+  "name": "Alus",
+  "description": "Nealkoholinis alus",
+  "price": "1.20",
+  "category": "Gėrimai"
+},
+{
+  "id": "7",
+  "image": "https://deimena.lt/media/catalog/product/cache/1/thumbnail/600x600/9df78eab33525d08d6e5fb8d27136e95/p/r/prgr23482119.jpg",
+  "name": "Tualetinis popierius",
+  "description": "3 sluoksnių, 4vnt. pakuotė",
+  "price": "2.09",
+  "category": "Higienos priemonės"
+},
+{
+  "id": "8",
+  "image": "https://i-cf5.gskstatic.com/content/dam/cf-consumer-healthcare/sensodyne-v2/en_US/Product-pages/products/desktop/Product-Repair-Protect.png?auto=format",
+  "name": "Dantų pasta",
+  "description": "Sensodyne Repair and Protect",
+  "price": "3.55",
+  "category": "Higienos priemonės"
+},
+{
+  "id": "9",
+  "image": "https://ksd-images.lt/display/aikido/store/6a9b133c4b419f48e481215a0b4a0888.jpg",
+  "name": "Samtis",
+  "description": "Plastikinis samtis 'Tefal'",
+  "price": "2.00",
+  "category": "Įrankiai"
+}]
